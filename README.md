@@ -1,6 +1,6 @@
 ### Hi there, I'm Jason! 👋
 
-I'm currently a co-op student at BCIT and taking the Computer Systems Technology Diploma program.
+I'm currently a co-op student and taking the Computer Systems Technology Diploma program at BCIT.
 
 ### Let's connect:
 
