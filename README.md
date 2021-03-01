@@ -2,9 +2,15 @@
 
 I'm currently a co-op student and taking the Computer Systems Technology Diploma program at BCIT.
 
+### My web portfolio:
+
+[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
+
+</br>
+
 ### Let's connect:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="LinkedIn" width="33px" src="https://user-images.githubusercontent.com/58869791/109557731-55990080-7a8d-11eb-85f2-11607016cfe2.png" />][linkedin]
 
 </br>
 
@@ -19,3 +25,4 @@ I'm currently a co-op student and taking the Computer Systems Technology Diploma
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 
 [linkedin]: https://www.linkedin.com/in/rivera-jason/
+[webprofile]: http://www.jasonrivera.xyz/
