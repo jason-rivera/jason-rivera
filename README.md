@@ -29,3 +29,4 @@ I'm currently a co-op student and taking the Computer Systems Technology Diploma
 [webprofile]: http://www.jasonrivera.xyz/
 
 ![Alt Text](https://media.giphy.com/media/6sn6bmRerdujQoVVFD/giphy.gif)
+<img align="left" alt="React" width="100px" src="https://media.giphy.com/media/6sn6bmRerdujQoVVFD/giphy.gif"/>
