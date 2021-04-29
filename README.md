@@ -27,3 +27,5 @@ I'm currently a co-op student and taking the Computer Systems Technology Diploma
 
 [linkedin]: https://www.linkedin.com/in/rivera-jason/
 [webprofile]: http://www.jasonrivera.xyz/
+
+![Alt Text](https://media.giphy.com/media/6sn6bmRerdujQoVVFD/giphy.gif)
