@@ -2,19 +2,19 @@
 
 I'm currently a co-op student and taking the Computer Systems Technology Diploma program at BCIT.
 
-### My web portfolio:
+### My Web Portfolio:
 
 [<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
 
 </br>
 
-### Let's connect:
+### Let's Connect:
 
 [<img align="left" alt="LinkedIn" width="33px" src="https://user-images.githubusercontent.com/58869791/109557731-55990080-7a8d-11eb-85f2-11607016cfe2.png" />][linkedin]
 
 </br>
 
-### Languages and Tools:
+### Languages, Tools & Frameworks:
 <img align="left" alt="Java" width="30px" src="https://cdn.vox-cdn.com/thumbor/-KCcGWaFIBC2YlTyt2V_875JI9M=/43x0:593x367/1400x1400/filters:focal(43x0:593x367):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/48667835/dbgxt2rvpd26udoyzcqn.0.0.jpg"/>
 <img align="left" alt="C" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png"/>
 <img align="left" alt="C++" width="30px" src="https://img.stackshare.io/service/1049/cplusplus.png"/>
