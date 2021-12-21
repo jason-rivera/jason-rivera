@@ -25,6 +25,8 @@ I'm currently a co-op student and taking the Computer Systems Technology Diploma
 <img align="left" alt="React" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"/>
 <img align="left" alt="Vue" width="30px" src="https://user-images.githubusercontent.com/58869791/121575165-e6ac3b80-c9db-11eb-900e-30ea83b69041.png"/>
 <img align="left" alt="Vue" width="30px" src="https://user-images.githubusercontent.com/58869791/121922200-95a78a80-ccee-11eb-9efe-b2a3ec205335.jpg"/>
+<img align="left" alt="React Native" width="30px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
+
 
 
 
