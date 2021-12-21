@@ -19,16 +19,16 @@ I'm currently a co-op student and taking the Computer Systems Technology Diploma
 <img align="left" alt="C" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/c-58-1175247.png"/>
 <img align="left" alt="C++" width="30px" src="https://img.stackshare.io/service/1049/cplusplus.png"/>
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="React" width="30px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
+<img align="left" alt="React Native" width="30px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
+<img align="left" alt="Vue" width="30px" src="https://user-images.githubusercontent.com/58869791/121575165-e6ac3b80-c9db-11eb-900e-30ea83b69041.png"/>
+<img align="left" alt="Node" width="30px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
+<img align="left" alt="Android Studio" width="30px" src="https://img.stackshare.io/service/1447/AyreX9yf.jpeg"/>
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Firebase" width="30px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
-<img align="left" alt="React" width="30px" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png"/>
-<img align="left" alt="React Native" width="30px" src="https://img.stackshare.io/service/2699/KoK6gHzp.jpg"/>
-<img align="left" alt="Vue" width="30px" src="https://user-images.githubusercontent.com/58869791/121575165-e6ac3b80-c9db-11eb-900e-30ea83b69041.png"/>
 <img align="left" alt="GitLab" width="30px" src="https://user-images.githubusercontent.com/58869791/121922200-95a78a80-ccee-11eb-9efe-b2a3ec205335.jpg"/>
-<img align="left" alt="Android Studio" width="30px" src="https://img.stackshare.io/service/1447/AyreX9yf.jpeg"/>
-<img align="left" alt="Node" width="30px" src="https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png"/>
 
 
 
