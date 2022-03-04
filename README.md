@@ -2,11 +2,9 @@
 
 I'm currently a co-op student and taking the Computer Systems Technology Diploma program at BCIT.
 
-### My Web Portfolio:
-
-[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
-
-</br>
+<>### My Web Portfolio:
+<>[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
+<></br>
 
 ### Let's Connect:
 
