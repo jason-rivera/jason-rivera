@@ -1,12 +1,14 @@
-### Hi there, I'm Jason! 👋
+### About Me
 
-I'm currently a co-op student and taking the Computer Systems Technology Diploma program at BCIT.
+Jason will be graduating from the Computer Systems Technology program at BCIT in May 2022. He is dedicated to life-long learning and developing meaningful projects that create a positive impact. Jason is naturally approachable and has the ability to fit in with any team. He aspires to become a full stack developer one day and constantly strives to be better than he was the day before.
 
-<>### My Web Portfolio:
-<>[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
-<></br>
+<!---
+### My Web Portfolio
+[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
+</br>
+--->
 
-### Let's Connect:
+### Let's Connect
 
 [<img align="left" alt="LinkedIn" width="33px" src="https://user-images.githubusercontent.com/58869791/109557731-55990080-7a8d-11eb-85f2-11607016cfe2.png" />][linkedin]
 
