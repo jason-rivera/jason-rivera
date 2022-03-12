@@ -1,6 +1,6 @@
 ### About Me
 
-Jason will be graduating from the Computer Systems Technology program at BCIT in May 2022. He is dedicated to life-long learning and developing meaningful projects that create a positive impact. Jason is naturally approachable and has the ability to fit in with any team. He aspires to become a full stack developer one day and constantly strives to be better than he was the day before.
+Jason will be graduating from the Computer Systems Technology program at BCIT in May 2022. He is dedicated to life-long learning and developing meaningful projects that create a positive impact. Jason is naturally approachable and has the ability to fit in with any team. Jason aspires to become a full stack developer one day and constantly strives to be a better version of himself every single day.
 
 <!---
 ### My Web Portfolio
