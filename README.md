@@ -27,6 +27,7 @@ Jason is a full-stack developer specializing in the MERN stack who focuses on cr
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 <img align="left" alt="Firebase" width="30px" src="https://img.stackshare.io/service/116/cZLxNFZS.jpg"/>
+<img align="left" alt="MongoDB" width="30px" src="https://img.stackshare.io/service/1030/leaf-360x360.png"/>
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <!---<img align="left" alt="GitLab" width="30px" src="https://user-images.githubusercontent.com/58869791/121922200-95a78a80-ccee-11eb-9efe-b2a3ec205335.jpg"/>--->
 
