@@ -1,6 +1,7 @@
-### About Me
-
-Jason is a full-stack developer specializing in the MERN stack who focuses on creating visually appealing and functional web experiences. He is dedicated to life-long learning and developing meaningful projects that create a positive impact. Jason is naturally approachable, has the ability to fit in with any team and constantly strives to be a better version of himself every single day.
+<!-- ### About Me -->
+### My Web Portfolio
+[<img align="left" alt="Web portfolio" width="30px" src="https://user-images.githubusercontent.com/58869791/109558019-b9232e00-7a8d-11eb-9ca9-85274fd40acc.png" />][webprofile]
+</br>
 
 <!---
 ### My Web Portfolio
@@ -37,4 +38,4 @@ Jason is a full-stack developer specializing in the MERN stack who focuses on cr
 
 
 [linkedin]: https://www.linkedin.com/in/rivera-jason/
-[webprofile]: http://www.jasonrivera.xyz/
+[webprofile]: https://www.jasonrivera.xyz/
